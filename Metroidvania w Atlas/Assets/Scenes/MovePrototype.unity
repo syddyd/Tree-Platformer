@@ -904,9 +904,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 479332852}
   maxSpeed: 8
+  acceleration: 0.1
   slowDown: 0.8
   jumpPower: 10
   fallMultiplier: 2.5
+  airMobility: 0.8
   mainCamera: {fileID: 519420031}
 --- !u!1 &519420028
 GameObject:
