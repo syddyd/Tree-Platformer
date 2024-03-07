@@ -50,7 +50,13 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
-#playmaker files
+#playmaker files??????
+Temp/
+
+/Assets/PlayMaker/
+/Assets/Plugins/PlayMaker
+/Assets/PlayMaker/PlayMaker.meta
+
 PlayMaker.dll
 PlayMaker.dll.mdb
 PlayMaker.dll.mdb.meta
